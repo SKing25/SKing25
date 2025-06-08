@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>     - GitHub Actions</p>
+<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br><pre>     - GitHub Actions</pre></p>
 
 ###
 
