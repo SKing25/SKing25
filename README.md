@@ -30,11 +30,15 @@
   <img height="40" src="https://github.com/SKing25/SKing25/blob/main/assets/render.svg"  />
 </div>
 
+<h3 align="left">📊​​ Stats</h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SKing25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SKing25&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=SKing25&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<h3 align="left">✍🏻​​ Quote</h3>
 
 <div align="left">
   <img height="150" src="https://github.com/SKing25/SKing25/blob/main/assets/Hakuna%20Matata.png"  />
