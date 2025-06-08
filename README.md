@@ -43,3 +43,8 @@
 </div>
 
 ###
+
+<div style="background-color: #3498db; padding: 20px; border-radius: 10px; color: white; width: 300px; text-align: center;">
+  <h2>Hakuna Matata</h2>
+  <p>Vive y sé feliz</p>
+</div>
