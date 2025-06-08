@@ -6,7 +6,7 @@
 
 <h3 align="left">👨🏽‍💻​ About me</h3>
 
-<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions</p>
+<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML & CSS</p>
 
 <br clear="both">
 
