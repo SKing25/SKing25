@@ -1,6 +1,6 @@
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG44cGQ1Z3p5Y3lubnp4cmV4eGpmeWY0bThzZnF4bDU1Ym5xODFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NmRBAYeblCnf9MHBX8/giphy.gif"  />
-
 <h1 align="center">Welcome to my GitHub 👋</h1>
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG44cGQ1Z3p5Y3lubnp4cmV4eGpmeWY0bThzZnF4bDU1Ym5xODFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NmRBAYeblCnf9MHBX8/giphy.gif"  />
 
 <h4 align="center">Hi, I'm Santiago</h4>
 
