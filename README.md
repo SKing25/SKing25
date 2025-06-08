@@ -4,7 +4,7 @@
 
 <h4 align="center">Hi, I'm Santiago</h4>
 
-<h2 align="left">👨🏽‍💻​ About me</h2>
+<h3 align="left">👨🏽‍💻​ About me</h3>
 
 <p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions</p>
 
