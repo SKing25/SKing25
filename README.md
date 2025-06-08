@@ -8,8 +8,6 @@
 
 <p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML & CSS</p>
 
-<br clear="both">
-
 <h3 align="left">💻​ Skills</h3>
 
 <div align="left">
