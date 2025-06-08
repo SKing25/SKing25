@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="30" />
+  <img src="data:image/svg+xml,%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ERender%3C%2Ftitle%3E%3Cpath%20d%3D%22M18.263.007c-3.121-.147-5.744%202.109-6.192%205.082-.018.138-.045.272-.067.405-.696%203.703-3.936%206.507-7.827%206.507-1.388%200-2.691-.356-3.825-.979a.2024.2024%200%200%200-.302.178V24H12v-8.999c0-1.656%201.338-3%202.987-3h2.988c3.382%200%206.103-2.817%205.97-6.244-.12-3.084-2.61-5.603-5.682-5.75%22%2F%3E%3C%2Fsvg%3E" height="40" alt="Render logo" />
 </div>
 
 <div align="left">
