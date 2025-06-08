@@ -6,11 +6,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h4 align="center">Hi, I'm Santiago</h4>
 
 ###
 
-<p align="left">I'm Santiago<br>COL<br><br>- 📚 CCIA<br>- ​💪🏻​ Backend</p>
+<h2 align="left">👨🏽‍💻​ About me</h2>
+
+###
+
+<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>     - GitHub Actions</p>
 
 ###
 
@@ -39,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/SKing25/SKing25/blob/main/Hakuna%20Matata.png"  />
+  <img height="200" src="https://github.com/SKing25/SKing25/blob/main/Hakuna%20Matata.png"  />
 </div>
 
 ###
