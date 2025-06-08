@@ -45,5 +45,5 @@
 ###
 
 <div align="center">
-  <img src="https://imgur.com/a/9Ba0kQL" height="300" alt="Quote"  />
+  <img src="[https://imgur.com/a/9Ba0kQL](https://github.com/SKing25/SKing25/raw/main/Hakuna%20Matata.png" height="500" alt="Quote"  />
 </div>
