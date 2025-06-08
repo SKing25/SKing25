@@ -6,7 +6,7 @@
 
 <h3 align="left">👨🏽‍💻​ About me</h3>
 
-<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML & CSS</p>
+<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML & CSS<br>🔥​ Hobbies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Videogames<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Anime & Manga<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Sleep</p>
 <br>
 
 <h3 align="left">💻​ Skills</h3>
