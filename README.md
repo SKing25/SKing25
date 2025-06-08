@@ -7,6 +7,7 @@
 <h3 align="left">👨🏽‍💻​ About me</h3>
 
 <p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML & CSS</p>
+<br>
 
 <h3 align="left">💻​ Skills</h3>
 
@@ -27,6 +28,7 @@
   <img width="30" />
   <img height="40" src="https://github.com/SKing25/SKing25/blob/main/assets/render.svg"  />
 </div>
+<br>
 
 <h3 align="left">📊​​ Stats</h3>
 
@@ -35,6 +37,7 @@
   <img src="https://streak-stats.demolab.com?user=SKing25&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=SKing25&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+<br>
 
 <h3 align="left">✍🏻​​ Quote</h3>
 
