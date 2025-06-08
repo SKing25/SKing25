@@ -39,12 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/SKing25/SKing25/blob/main/Hakuna%20Matata.png"  />
+  <img height="150" src="https://github.com/SKing25/SKing25/blob/main/Hakuna%20Matata.png"  />
 </div>
 
 ###
-
-<div style="background-color: #3498db; padding: 20px; border-radius: 10px; color: white; width: 300px; text-align: center;">
-  <h2>Hakuna Matata</h2>
-  <p>Vive y sé feliz</p>
-</div>
