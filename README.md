@@ -28,6 +28,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://github.com/SKing25/SKing25/blob/main/Hakuna%20Matata.png"  />
+<div align="left">
+  <img height="150" src="https://github.com/SKing25/SKing25/blob/main/Hakuna%20Matata.png"  />
 </div>
