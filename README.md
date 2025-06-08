@@ -42,5 +42,5 @@
 <h3 align="left">✍🏻​​ Quote</h3>
 
 <div align="left">
-  <img height="150" src="https://github.com/SKing25/SKing25/blob/main/assets/Hakuna%20Matata.png"  />
+  <img height="100" src="https://github.com/SKing25/SKing25/blob/main/assets/Hakuna%20Matata.png"  />
 </div>
