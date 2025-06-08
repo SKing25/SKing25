@@ -43,3 +43,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://imgur.com/a/9Ba0kQL" height="300" alt="Quote"  />
+</div>
