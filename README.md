@@ -8,9 +8,7 @@
   
   <div style="width: 30%; padding: 10px;">
     <h3>👨🏽‍💻​ About me</h3>
-    <table>
-    <tr>
-    <td width="10%">
+    
 
   ```python
       class SobreMi:
@@ -27,8 +25,7 @@
 
       print("No me gusta hacer vistas :)")
   ```
-  </tr>
-  </table>
+  
   </div>
 
   
