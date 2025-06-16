@@ -6,7 +6,7 @@
   <div style="width: 50%; padding: 10px;">
     <h3>👨🏽‍💻​ About me</h3>
 
-    ```python
+  ```python
     class SobreMi:
         def __init__(self):
             self.nombre = "Santiago"
@@ -20,7 +20,7 @@
         self.por_aprender = ["Docker", "Go"]
 
     print("No me gusta hacer vistas :)")
-    ```
+  ```
     
   </div>
 
