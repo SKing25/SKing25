@@ -6,7 +6,21 @@
 
 <h3 align="left">👨🏽‍💻​ About me</h3>
 
-<p align="left">📍​COL<br><br>📚 CCIA<br>💪🏻​ Backend<br>🌱​ Learning:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GitHub Actions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- HTML & CSS<br>🔥​ Hobbies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Videogames<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Anime & Manga<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Sleep</p>
+```python
+  class SobreMi:
+      def __init__(self):
+          self.nombre = "Santiago"
+          self.profesion = "Estudiante de CCIA"
+          self.ubicacion = "Colombia"
+          self.pasiones = "⚙️ Backend"
+
+      def aprendizaje(self):
+      self.en_progreso = ["GitHub Actions", "HTML", "CSS", "JavaScript"]
+
+      self.por_aprender = ["Docker", "Go"]
+
+  print("No me gusta hacer vistas :)")
+  ```
 <br>
 
 <h3 align="left">💻​ Skills</h3>
