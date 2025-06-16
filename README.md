@@ -3,7 +3,7 @@
 
 <div style="display: flex;">
 
-  <div style="width: 50%; padding: 10px;">
+  <div style="width: 30%; padding: 10px;">
     <h3>👨🏽‍💻​ About me</h3>
 
   ```python
