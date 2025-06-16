@@ -6,7 +6,7 @@
     <h3>👨🏽‍💻​ About me</h3>
     <table>
     <tr>
-    <td width="50%">
+    <td width="30%">
 
   ```python
       class SobreMi:
