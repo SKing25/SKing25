@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
-
 <h4 align="center">Hi, I'm Santiago</h4>
 
 <div style="display: flex;">
@@ -30,27 +29,22 @@
   </div>
 
 </div>
+
+
+
+
+
+<div align="left">
+
+  
+</div>
+
 <br>
 
 <h3 align="left">💻​ Skills</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="30" />
-  <img height="40" src="https://github.com/SKing25/SKing25/blob/main/assets/render.svg"  />
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <br>
 
 <h3 align="left">📊​​ Stats</h3>
@@ -67,3 +61,4 @@
 <div align="left">
   <img height="100" src="https://github.com/SKing25/SKing25/blob/main/assets/Hakuna%20Matata.png"  />
 </div>
+
