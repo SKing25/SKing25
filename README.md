@@ -4,32 +4,32 @@
 
 <h4 align="center">Hi, I'm Santiago</h4>
 
-<h3 align="left">👨🏽‍💻​ About me</h3>
+<div style="display: flex;">
 
-<div align="center">
-  <table>
-  <tr>
-  <td width="100%">
+  <div style="padding: 10px;">
+    <h3>👨🏽‍💻​ About me</h3>
 
-  ```python
-  class SobreMi:
-      def __init__(self):
-          self.nombre = "Santiago"
-          self.profesion = "Estudiante de CCIA"
-          self.ubicacion = "Colombia"
-          self.pasiones = "⚙️ Backend"
+    ```python
+    class SobreMi:
+        def __init__(self):
+            self.nombre = "Santiago"
+            self.profesion = "Estudiante de CCIA"
+            self.ubicacion = "Colombia"
+            self.pasiones = "⚙️ Backend"
 
-      def aprendizaje(self):
-      self.en_progreso = ["GitHub Actions", "HTML", "CSS", "JavaScript"]
+        def aprendizaje(self):
+        self.en_progreso = ["GitHub Actions", "HTML", "CSS", "JavaScript"]
 
-      self.por_aprender = ["Docker", "Go"]
+        self.por_aprender = ["Docker", "Go"]
 
-  print("No me gusta hacer vistas :)")
-  ```
+    print("No me gusta hacer vistas :)")
+    ```
+  </div>
 
-  </td>
-  </tr>
-  </table>
+  <div style="padding: 50px 10px 10px 10px ;">
+    <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12Ym81ZmwzNjN1YnN5eG5zbjk2dndvdGRjMGh1NWIzdm1idHJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
+  </div>
+
 </div>
 <br>
 
