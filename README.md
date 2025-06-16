@@ -2,26 +2,29 @@
 <h4 align="center">Hi, I'm Santiago</h4>
 
 <div style="display: flex; align-items: center;">
-
   <div style="width: 30%; padding: 10px;">
     <h3>👨🏽‍💻​ About me</h3>
+    <table>
+    <tr>
+    <td width="50%">
 
   ```python
-    class SobreMi:
-        def __init__(self):
-            self.nombre = "Santiago"
-            self.profesion = "Estudiante de CCIA"
-            self.ubicacion = "Colombia"
-            self.pasiones = "⚙️ Backend"
+      class SobreMi:
+          def __init__(self):
+              self.nombre = "Santiago"
+              self.profesion = "Estudiante de CCIA"
+              self.ubicacion = "Colombia"
+              self.pasiones = "⚙️ Backend"
 
-        def aprendizaje(self):
-        self.en_progreso = ["GitHub Actions", "HTML", "CSS", "JavaScript"]
+          def aprendizaje(self):
+          self.en_progreso = ["GitHub Actions", "HTML", "CSS", "JavaScript"]
 
-        self.por_aprender = ["Docker", "Go"]
+          self.por_aprender = ["Docker", "Go"]
 
-    print("No me gusta hacer vistas :)")
+      print("No me gusta hacer vistas :)")
   ```
-    
+  </tr>
+  </table>
   </div>
 
   <div style="width: 50%; padding: 50px 10px 10px 10px ;">
