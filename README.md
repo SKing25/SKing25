@@ -6,7 +6,12 @@
 
 <h3 align="left">👨🏽‍💻​ About me</h3>
 
-```python
+<div align="center">
+  <table>
+  <tr>
+  <td width="100%">
+
+  ```python
   class SobreMi:
       def __init__(self):
           self.nombre = "Santiago"
@@ -21,6 +26,11 @@
 
   print("No me gusta hacer vistas :)")
   ```
+
+  </td>
+  </tr>
+  </table>
+</div>
 <br>
 
 <h3 align="left">💻​ Skills</h3>
