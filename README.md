@@ -1,35 +1,27 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
 <h4 align="center">Hi, I'm Santiago</h4>
 
-<div style="display: flex; align-items: center;">
-<div>
-    <img style="padding=20px" align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12Ym81ZmwzNjN1YnN5eG5zbjk2dndvdGRjMGh1NWIzdm1idHJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
-  </div>
-  
-  <div style="width: 30%; padding: 20px;">
-    <h3>👨🏽‍💻​ About me</h3>
-    
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem12Ym81ZmwzNjN1YnN5eG5zbjk2dndvdGRjMGh1NWIzdm1idHJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
+
+<h3>👨🏽‍💻​ About me</h3>
+
+<div align="left">
 
   ```python
-      class SobreMi:
-          def __init__(self):
-              self.nombre = "Santiago"
-              self.profesion = "Estudiante de CCIA"
-              self.ubicacion = "Colombia"
-              self.pasiones = "⚙️ Backend"
+  class SobreMi:
+      def __init__(self):
+          self.nombre = "Santiago"
+          self.profesion = "Estudiante de CCIA"
+          self.ubicacion = "Colombia"
+          self.pasiones = "⚙️ Backend"
 
-          def aprendizaje(self):
-          self.en_progreso = ["GitHub Actions", "HTML", "CSS", "JavaScript"]
+      def aprendizaje(self):
+      self.en_progreso = ["GitHub Actions", "HTML", "CSS", "JavaScript"]
 
-          self.por_aprender = ["Docker", "Go"]
+      self.por_aprender = ["Docker", "Go"]
 
-      print("No me gusta hacer vistas :)")
+  print("No me gusta hacer vistas :)")
   ```
-  
-  </div>
-
-  
-
 </div>
 
 
