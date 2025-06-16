@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
 <h4 align="center">Hi, I'm Santiago</h4>
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
 
   <div style="width: 30%; padding: 10px;">
     <h3>👨🏽‍💻​ About me</h3>
